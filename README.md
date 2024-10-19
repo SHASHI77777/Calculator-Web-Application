@@ -11,8 +11,7 @@ Keyboard Support: Users can operate the calculator using their keyboard for conv
 Technologies Used
 HTML: This is used to structure the layout of the calculator.
 CSS: This is used to style the calculator interface and make it responsive.
-JavaScript: This is us
-ed to handle the calculator's functionality and arithmetic operations.
+JavaScript: This is used to handle the calculator's functionality and arithmetic operations.
 Demo
 
 You can see the live version of the calculator here  https://calculatorwebapplicationdemo.netlify.app/.
