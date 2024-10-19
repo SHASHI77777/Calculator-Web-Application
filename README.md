@@ -9,9 +9,10 @@ Clear Button: Allows the user to reset the calculation.
 Live Result Display: Updates results dynamically as you input numbers and operations.
 Keyboard Support: Users can operate the calculator using their keyboard for convenience.
 Technologies Used
-HTML: For structuring the layout of the calculator.
-CSS: For styling the calculator interface and making it responsive.
-JavaScript: For handling the calculator's functionality and arithmetic operations.
+HTML: This is used to structure the layout of the calculator.
+CSS: This is used to style the calculator interface and make it responsive.
+JavaScript: This is us
+ed to handle the calculator's functionality and arithmetic operations.
 Demo
 
-You can see the live version of the calculator here.
+You can see the live version of the calculator here  https://calculatorwebapplicationdemo.netlify.app/.
